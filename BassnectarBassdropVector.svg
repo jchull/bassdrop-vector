@@ -12,7 +12,7 @@
                 <cc:license>
                     <cc:permits rdf:resource="http://web.resource.org/cc/Reproduction"/>
                     <cc:permits rdf:resource="http://web.resource.org/cc/Distribution"/>
-                    <cc:requires rdf:resource="http://web.resource.org/cc/Attribution"/>
+                    <cc:permits rdf:resource="http://web.resource.org/cc/Attribution"/>
                 </cc:license>
             </cc:work>
         </rdf:RDF>
