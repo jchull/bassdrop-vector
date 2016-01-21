@@ -1,5 +1,37 @@
-.outline .shape {
+.thumb svg {
+	height: 180px;
+	margin: 20px;
+}
+
+.shape {
 	fill: none;
 	stroke-width: 1px;
 	stroke: #000000;
+}
+
+.samples .shape {
+	stroke-width: 0;
+}
+
+.thumb .shape {
+	stroke-width: 2px;
+}
+
+.samples .shape.inner1 {
+	fill: red;
+}
+.samples .shape.inner2 {
+	fill: orange;
+}
+.samples .shape.outer1 {
+	fill: yellow;
+}
+.samples .shape.outer2 {
+	fill: green;
+}
+.samples .shape.dot.small{
+	fill: blue;
+}
+.samples .shape.dot.large {
+	fill: indigo;
 }
